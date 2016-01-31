@@ -5,4 +5,4 @@ to use CGA 160x100 and 320x200.
 
 # TODO
 * blitter
-* bindinds and examples
+* bindings and examples
